@@ -1,4 +1,3 @@
-![logo]{https://github.com/pankajbhatia85/pankajbhatia85/blob/main/Data%20ScientistData%20Analyst%20(2).png}
 <h1 align="center">Hi 👋, I'm Pankaj Bhatia</h1>
 <h3 align="center">A passionate DataScientist experienced in GenerativeAI using Python, relational/non-relational databases/cloud (GCP,AWS,Azure) and state-of-the-art LLM Models</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReLVmMwo4a3PSVfUPBCM19-IEI4CW5sQBPpA&s">
