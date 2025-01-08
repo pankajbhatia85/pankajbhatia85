@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pankaj.bhatia85@outlook.com**
 
-- 📄 Know about my experiences [https://resume-pankaj-bhatia.tiiny.site](https://resume-pankaj-bhatia.tiiny.site)
+- 📄 Know about my experiences [Resume](https://pankajbhatia-datascientist.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
